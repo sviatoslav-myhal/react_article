@@ -1,0 +1,2 @@
+body{font-size:18px;display:flex;justify-content:center;align-items:center;height:100vh;background:linear-gradient(270deg,#a14b8c,#283e51);background-size:cover;background-repeat:no-repeat}.article{background-color:#283e51;box-shadow:20px 4px 52px 14px rgba(0,0,0,.3);transition:1s}.article:hover{box-shadow:20px 4px 52px 14px rgba(0,0,0,.6);background-color:#29475d}.article__title{text-align:center}.article__wrapper{display:flex;flex-direction:column;justify-content:center;padding:40px 30px;border-radius:10%;width:400px}
+/*# sourceMappingURL=main.17b08798.chunk.css.map */
